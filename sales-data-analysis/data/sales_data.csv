@@ -1,1 +1,7 @@
-
+Order ID,Order Date,Customer Name,Category,Product,Sales,Quantity
+1001,2023-01-15,Alice,Furniture,Desk,300.0,1
+1002,2023-02-20,Bob,Technology,Laptop,1200.0,1
+1003,2023-03-05,Charlie,Office Supplies,Pens,45.0,3
+1004,2023-04-18,Diana,Furniture,Chair,150.0,2
+1005,2023-04-25,Evan,Technology,Monitor,400.0,1
+1006,2023-05-02,Faith,Office Supplies,Paper,25.0,5
